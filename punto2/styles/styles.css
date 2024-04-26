@@ -1,0 +1,15 @@
+.navbarPersonalizada {
+    background-color: #FFF8E8 !important;
+    justify-content: space-between !important;
+    display: flex !important;
+}
+
+.logo {
+    padding: 10px 0;
+    justify-content: space-around !important;
+    display: flex !important;
+}
+
+.items {
+    flex-grow: 0 !important;
+}
