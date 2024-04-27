@@ -41,10 +41,6 @@
     display: flex;
 }
 
-.card-img {
-    object-fit: fill !important;
-}
-
 .tarjetas img {
     height: 480px;
 }
@@ -65,12 +61,6 @@
   background-position: center;
 }
 
-.container {
-    height: 34rem;
-    position: relative;
-}
-
-.tarjetica{
-    justify-content: center;
-    align-items: center;
+.card {
+    margin: 15px 10px;
 }
