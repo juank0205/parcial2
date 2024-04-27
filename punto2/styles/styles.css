@@ -13,3 +13,64 @@
 .items {
     flex-grow: 0 !important;
 }
+
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    min-height: 500px;
+}
+
+.galletica {
+    background-color: #3B1F1C !important;
+    height: 64px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.galletica h4 {
+    color: #FFF8E8;
+}
+
+.tarjetas {
+    align-items: center;
+    display: flex;
+}
+
+.card-img {
+    object-fit: fill !important;
+}
+
+.tarjetas img {
+    height: 480px;
+}
+
+.footer {
+    height: 160px;
+}
+
+.footer .texto{
+    letter-spacing: 2px;
+    font-size: .875em;
+    color: white;
+}
+
+.contenedor {
+  background-image: url("../assets/bcard.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+.container {
+    height: 34rem;
+    position: relative;
+}
+
+.tarjetica{
+    justify-content: center;
+    align-items: center;
+}
